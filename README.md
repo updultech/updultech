@@ -1,6 +1,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=updultech&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=updultech&theme=radical)
 
 
 
