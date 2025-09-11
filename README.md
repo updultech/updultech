@@ -1,3 +1,10 @@
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
+
+
 - 👋 Hi, I’m @updultech
 - 👀 I’m interested in data science and analytics and  web development...
 - 🌱 I’m currently learning ...python,SQL,css and javascript
