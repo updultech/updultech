@@ -3,6 +3,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=updultech&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=updultech&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=updultech&layout=compact&theme=radical)
+### 🛠️ Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
 
 
 
