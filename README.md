@@ -10,9 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
-📫 Reach me at: your_email@gmail.com  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🌍 Portfolio: [Your Website](https://yourwebsite.com)
+![Profile Views](https://komarev.com/ghpvc/?username=updultechE&color=blue)  
+
 
 
 
