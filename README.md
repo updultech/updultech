@@ -1,12 +1,13 @@
 
-
+👋 Hi, I’m @updultech
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=updultech&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=updultech&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=updultech&layout=compact&theme=radical)
 
 
 
 
-- 👋 Hi, I’m @updultech
+- 
 - 👀 I’m interested in data science and analytics and  web development...
 - 🌱 I’m currently learning ...python,SQL,css and javascript
 - 
