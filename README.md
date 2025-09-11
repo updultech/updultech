@@ -1,5 +1,6 @@
-
 👋 Hi, I’m @updultech
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=updultech&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=updultech&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=updultech&layout=compact&theme=radical)
@@ -9,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/boostrap/boostrap-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CSS/CSS-original.svg" width="40"/>
 </p>
 ![Profile Views](https://komarev.com/ghpvc/?username=updultechE&color=blue)  
 
